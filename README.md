@@ -1,8 +1,8 @@
 <div align="center">
- <h1 align="center">Mend :  Share. Create. Connect.An App to reconnect and grow</h3>
+ <h1 align="center">Mend :  Share. Create. Connect.</h3>
  </div>
 
- # An Social Media App to reconnect and growSocial Media App
+  An Social Media App to reconnect and growSocial Media App
 
 
  ##  Download
