@@ -5,18 +5,12 @@ import { supabaseUrl } from '@/constants';
 import { supabase } from '@/lib/supabase';
 
 export const getUserImageSrc = (imagePath?: string | null) => {
-    if (!imagePath) return require('@/assets/images/defaultUser.png');
-    
-    // Handle full URLs already (in case you store absolute URLs)
-    if (imagePath.startsWith('http')) {
-      return { uri: imagePath };
+    if (imagePath) {
+        return getSupabaseFileUrl(imagePath);
+    } else {
+        return require('@/assets/images/defaultUser.png');
     }
-  
-    // Construct Supabase URL
-    return { 
-      uri: `${supabaseUrl}/storage/v1/object/public/uploads/${imagePath}`
-    };
-  };
+};
 
 export const getSupabaseFileUrl = (filePath?: string) => {
     if (filePath) {

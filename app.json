@@ -22,7 +22,8 @@
       },
       "permissions": [
         "android.permission.RECORD_AUDIO"
-      ]
+      ],
+      "package": "com.alexstha03.mend"
     },
     "web": {
       "bundler": "metro",
