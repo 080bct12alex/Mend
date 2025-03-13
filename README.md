@@ -1,8 +1,8 @@
-# Mend :  Share. Create. Connect.
-# Social Media App
 <div align="center">
- <h1 align="center">An App to reconnect and grow</h3>
+ <h1 align="center">Mend :  Share. Create. Connect.An App to reconnect and grow</h3>
  </div>
+
+ # An Social Media App to reconnect and growSocial Media App
 
 
  ##  Download
@@ -17,10 +17,6 @@
 - Expo
 - Supabase
 
-<div>
-    <img src="https://www.atakinteractive.com/hubfs/react-native%20%281%29.png" alt="React Native" />
-    <img src="https://notificare.com/static/08e587971af3313079db68d8d2b4d446/d0198/react-native-and-expo-cover.jpg" alt="Expo" />
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*xOqCfciF90c8nH0HhMpapQ.png" alt="Supabase" />
-  </div>
+
 
 
