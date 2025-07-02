@@ -2,13 +2,13 @@
  <h1 align="center">Mend :  Share. Create. Connect.</h3>
  </div>
 
-  An Social Media App to reconnect and growSocial Media App
+  An Social Media App to reconnect and grow Social Media App
 
 
  ##  Download
 
 ### Android
-- [Download for android](https://expo.dev/artifacts/eas/3x7AkmDqK2vWiHRAEZyQjL.apk)
+- [Download for android]([https://expo.dev/artifacts/eas/3x7AkmDqK2vWiHRAEZyQjL.apk](https://www.upload-apk.com/en/d9Pcrmv5txqXwRg))
 
 ##  Preview
 - [Preview](https://i.ibb.co/7tMff9hV/mend.jpg)
