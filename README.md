@@ -8,7 +8,7 @@
  ##  Download
 
 ### Android
-- [Download for android]([https://expo.dev/artifacts/eas/3x7AkmDqK2vWiHRAEZyQjL.apk](https://www.upload-apk.com/en/d9Pcrmv5txqXwRg))
+- [Download for android]([https://www.upload-apk.com/en/d9Pcrmv5txqXwRg])
 
 ##  Preview
 - [Preview](https://i.ibb.co/7tMff9hV/mend.jpg)
